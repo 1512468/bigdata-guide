@@ -33,9 +33,8 @@
 
 ## Source
 - We was develop a simple project spark application for demo. You need to clone it and build for your exercise.
-``` git clone https://github.com/thien1212381/spark-demo.git ```
 - In folder demo
-``` cd demo ```
+``` cd hands-on/spark/hands-on-02/demo ```
 - We have :
     - **build.sbt**: It contains dependencies for this project
     - **src/main/scala/com/sparkdemo/rdd/RDDDemo.scala**:  Spark rdd demo
@@ -106,5 +105,5 @@ $SPARK_HOME/bin/spark-submit \
     2019-09-02  1 
     ```
 
-## Exercise
+## [Exercise](/hands-on/spark/hands-on-02/spark-labs.md)
 

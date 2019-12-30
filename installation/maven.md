@@ -15,12 +15,6 @@ cd /opt/mvn
 wget http://mirror.downloadvn.com/apache/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.tar.gz
 ```
 
-Or 
-
-```
-scp member1@118.68.170.134:/opt/apache-maven-3.6.2-bin.tar.gz .
-```
-
 ## Step 03: Uncompress the binary
 
 ```

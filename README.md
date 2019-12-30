@@ -6,28 +6,28 @@ This guideline provide a basic instruction for whom want to learning Big Data Pr
 
 - [Java](/installation/java.md)
 - [Maven](/installation/maven.md)
-- [Scala]()
-- [Sbt](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/sbt.md)
+- [Scala](/installation/scala.md)
+- [Sbt](/installation/sbt.md)
 
 ## Hadoop Labs
 
-- [Install Hadoop in Pseudo-Distributed Mode](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/hadoop.md)
+- [Install Hadoop in Pseudo-Distributed Mode](/hands-on/hadoop.md)
 - [MapReduce Labs](https://github.com/vinhdangphuc/hands-on/tree/master/labs-mapreduced)
 
 ## Data Collection Labs
 
-- [Data Collector using Logstash](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/logstash.md)
-- [Kafka](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/kafka.md)
+- [Data Collector using Logstash](/hands-on/logstash.md)
+- [Kafka](/hands-on/kafka.md)
 
 ## Spark Labs
 
-- [Scala Quickstart]()
-- [Spark RDD]()
-- [Spark SQL]()
+- [Scala Quickstart](/hands-on/scala.md)
+- [Spark RDD](/hands-on/spark/hands-on-01/README.md)
+- [Spark SQL](/hands-on/spark/hands-on-02/README.md)
 
 ## SQL Labs
 
-- [SQL labs]()
+- [Presto labs](/hands-on/presto/presto-labs.md)
 
 ## Workflow Scheduler Labs
 

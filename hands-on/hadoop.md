@@ -35,12 +35,6 @@ cd /tmp/hadoop
 wget https://archive.apache.org/dist/hadoop/core/hadoop-3.1.1/hadoop-3.1.1.tar.gz
 ```
 
-Or
-
-```
-scp member1@118.68.170.134:/opt/hadoop-3.1.1.tar.gz .
-```
-
 Extract hadoop binary
 
 ```

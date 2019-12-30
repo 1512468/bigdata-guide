@@ -13,12 +13,6 @@ Download sbt binary
 wget https://piccolo.link/sbt-1.3.3.tgz
 ```
 
-Or
-
-```
-scp member1@118.68.170.134:/opt/sbt-1.3.3.tgz .
-```
-
 Extract binary
 
 ```
