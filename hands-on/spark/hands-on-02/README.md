@@ -24,11 +24,11 @@
 | 2019-09-02 | 1
 
 ## Requirements
-- Install [Java 8 & IntelliJ](https://github.com/TranHuuBao/mapreduce-demo/blob/master/setup-env.md)
-- Install [Scala ](https://github.com/thien1212381/spark-demo/blob/master/scala_installation.md)
-- Install [Sbt](https://github.com/thien1212381/spark-demo/blob/master/sbt_installation.md)
-- Install [Spark](https://github.com/thien1212381/spark-demo/blob/master/spark_installation.md)
-- Install [Hadoop - Yarn](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/hadoop.md) (for yarn mode)
+- Install [Java 8 & IntelliJ](/installation/map-reduce-setup-env.md)
+- Install [Scala ](/installation/scala.md)
+- Install [Sbt](/installation/sbt.md)
+- Install [Spark](/installation/spark.md)
+- Install [Hadoop - Yarn](/hands-on/hadoop.md) (for yarn mode)
 
 
 ## Source
