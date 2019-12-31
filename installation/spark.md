@@ -2,8 +2,8 @@
 
 ## Requirement
 
-- [Install Java](https://github.com/vinhdangphuc/hands-on/blob/master/hands-on/java.md)
-- [Install Scala](https://github.com/thien1212381/spark-demo/blob/master/scala_installation.md)
+- [Install Java](/installation/java.md)
+- [Install Scala](/installation/scala.md)
 
 ## Install
 ### MacOS
