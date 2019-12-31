@@ -1,2 +1,0 @@
-# labs-mapreduce
-MapReduce example 
