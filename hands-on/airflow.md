@@ -211,11 +211,7 @@ spark_job >> notify
 
 Bạn hãy tạo 1 dags PythonOperator chạy một  function in ra các từng giá trị trong list ['one', 'two', 'three','four', 'five'] bằng cách truyền vào args từ PythonOperator 
 - Lưu ý: Mỗi người cần tạo một dag_id  riêng  biệt để tránh trùng lặp với format [mail_prefix]_your_dag_name
-- Các dag sau khi tạo xong copy lên server 118.68.168.182 với
-``` 
-	account: member1 
-	password: 1234567
-```
+- Các dag sau khi tạo xong copy lên server
 vào đường dẫn /home/member1/airflow-dags/ 
 Bạn có thể tạo folder riêng cho mình trong đó để dễ quản lý hơn.
 

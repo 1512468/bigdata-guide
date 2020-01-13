@@ -47,7 +47,7 @@ mvn package
 ### Copy jar in to a node in hadoop cluster
 
 ```
-scp target/wordcount-1.0-SNAPSHOT.jar member1@118.68.170.134:~/
+scp target/wordcount-1.0-SNAPSHOT.jar USER@HOST:~/
 ```
 
 ### Submit job on cluster
@@ -55,7 +55,7 @@ scp target/wordcount-1.0-SNAPSHOT.jar member1@118.68.170.134:~/
 Login into dev cluster using provided user and password
 
 ```
-ssh member1@118.68.170.134
+ssh USER@HOST
 ```
 
 And execute command
@@ -82,7 +82,7 @@ Queue(s) Containers: 1 allocated, 0 pending, 0 reserved
 
 ```
 
-Check id existed in [Resource Manager UI](http://118.68.170.134:8088/cluster)
+Check id existed in [Resource Manager UI](http://HOST:8088/cluster)
 
 Finally, check the output
 

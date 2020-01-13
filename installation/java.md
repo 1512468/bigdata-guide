@@ -10,10 +10,6 @@ cd /opt/java
 
 Download jdk binary
 
-```
-scp member1@118.68.170.134:/opt/jdk-8u231-linux-x64.tar.gz .
-```
-
 Extract binary 
 
 ```
